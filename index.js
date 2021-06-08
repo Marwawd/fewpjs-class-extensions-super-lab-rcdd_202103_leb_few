@@ -12,7 +12,7 @@ class Tree{
 class Deciduous extends Tree{
   constructor(species,name){
     super(species);
-    tgis.name=name;
+    this.name=name;
   }
   static definition(){
     return (
