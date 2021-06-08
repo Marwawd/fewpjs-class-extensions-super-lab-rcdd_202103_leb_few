@@ -18,7 +18,7 @@ class Evergreen extends Tree {
   // }
   static definition() {
     return (
-      super.definition() + ' Dogs are one of the most common types of pets.'
+      super.definition() + ' Evergreens keep their leaves all year round.'
     );
   }
 }
